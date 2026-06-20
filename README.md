@@ -1,2 +1,2 @@
 # lol_edition499
-a thing i dont know XDDDDD
+this is where i make lua scripts btw theres no hscript becuz no
